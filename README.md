@@ -17,7 +17,7 @@
 |Haskell||
 |C++||
 |Shell Script(bash)||
-||C#|
+|C#||
 ||Lisp|
 ||Lua|
 ||MySQL|
@@ -31,4 +31,11 @@
 
 ## How to "Hello, World!" on OSX
 
-추가 예정
+### C#
+
+```bash
+brew cask install dotnet
+dotnet new     # init c# and generate "hello world" seed project
+dotnet restore # restore dependencies
+dotnet run     # "Hello World"
+```
