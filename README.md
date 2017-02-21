@@ -31,7 +31,7 @@
 
 ## How to "Hello, World!" on OSX
 
-### C\#
+### C# #
 
 ```bash
 brew cask install dotnet
