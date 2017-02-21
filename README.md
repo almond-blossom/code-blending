@@ -31,11 +31,11 @@
 
 ## How to "Hello, World!" on OSX
 
-### C#
+### C\#
 
 ```bash
 brew cask install dotnet
-dotnet new     # init c# and generate "hello world" seed project
-dotnet restore # restore dependencies
+dotnet new     # Init and generate "hello world" c# seed project
+dotnet restore # Restore dependencies specified in the 'project.json'
 dotnet run     # "Hello World"
 ```
