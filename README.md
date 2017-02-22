@@ -18,7 +18,7 @@
 |C++||
 |Shell Script(bash)||
 |C#||
-||Lisp|
+|Lisp (Common Lisp)||
 ||Lua|
 ||MySQL|
 ||Objective-C|
@@ -38,4 +38,11 @@ brew cask install dotnet
 dotnet new     # Init and generate "hello world" c# seed project
 dotnet restore # Restore dependencies specified in the 'project.json'
 dotnet run     # "Hello World"
+```
+
+### Common Lisp
+
+```bash
+brew install clisp
+clisp FILE_NAME # Run Lisp file
 ```
