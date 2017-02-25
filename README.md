@@ -19,7 +19,7 @@
 |Shell Script(bash)||
 |C#||
 |Lisp (Common Lisp)||
-||Lua|
+|Lua||
 ||MySQL|
 ||Objective-C|
 ||Swift|
@@ -35,14 +35,34 @@
 
 ```bash
 brew cask install dotnet
-dotnet new     # Init and generate "hello world" c# seed project
+dotnet new     # Init and generate "hello, world!" c# seed project
 dotnet restore # Restore dependencies specified in the 'project.json'
-dotnet run     # "Hello World"
+dotnet run     # "Hello, World!"
 ```
 
 ### Common Lisp
 
 ```bash
 brew install clisp
-clisp FILE_NAME # Run Lisp file
+```
+```Lisp
+; hello-world.lisp
+(print "Hello, World!")
+```
+```bash
+clisp hello-world.lisp # "Hello, World!"
+```
+
+### Lua
+
+```bash
+brew install lua
+```
+```Lua
+-- hello-world.lua
+print "Hello, World!" -- case 1
+print("Hello, World!") -- case 2
+```
+```bash
+lua hello-world.lua
 ```
