@@ -50,7 +50,7 @@ brew install clisp
 (print "Hello, World!")
 ```
 ```bash
-clisp hello-world.lisp # "Hello, World!"
+clisp hello-world.lisp
 ```
 
 ### Lua
