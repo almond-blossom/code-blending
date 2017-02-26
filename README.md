@@ -31,6 +31,21 @@
 
 ## How to "Hello, World!" on OSX
 
+### C
+
+```c
+// hello-world.c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, world!\n");
+}
+```
+```bash
+gcc hello-world.c # Compile source code.
+./a.out           # "Hello, World!"
+```
+
 ### Java
 
 ```bash
