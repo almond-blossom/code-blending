@@ -31,6 +31,24 @@
 
 ## How to "Hello, World!" on OSX
 
+### Java
+
+```bash
+brew cask install java
+```
+```java
+// hello-world.java
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+```bash
+javac hello-world.java # Compile source code.
+java HelloWorld        # "Hello, World!"
+```
+
 ### C# #
 
 ```bash
