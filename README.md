@@ -9,7 +9,7 @@
 |C||
 |Java||
 |Python(^3.0.0)||
-|Javascript|Typescript<br>Dart|
+|Javascript||
 |GO||
 |Ruby||
 |PHP||
