@@ -64,6 +64,19 @@ javac hello-world.java # Compile source code.
 java HelloWorld        # "Hello, World!"
 ```
 
+### Python(^3.0.0)
+
+```bash
+brew install python3
+```
+```python
+# hello-world.py
+print("Hello, World!")
+```
+```bash
+python3 hello-world.py
+```
+
 ### C# #
 
 ```bash
