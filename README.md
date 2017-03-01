@@ -77,6 +77,28 @@ print("Hello, World!")
 python3 hello-world.py
 ```
 
+### GO
+
+```bash
+brew install go
+```
+```go
+// hello-world.go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("hello world")
+}
+```
+```bash
+go run hello-world.go   # case1 - Run immediately
+
+go build hello-world.go # case2 - Build first
+./hello-world           #       - and run
+```
+
 ### C# #
 
 ```bash
