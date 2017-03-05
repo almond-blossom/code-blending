@@ -106,10 +106,10 @@ func main() {
 }
 ```
 ```bash
-go run hello-world.go   # case1 - Run immediately
+go run hello-world.go   # case 1 - Run immediately
 
-go build hello-world.go # case2 - Build first
-./hello-world           #       - and run
+go build hello-world.go # case 2 - Build first
+./hello-world           #        - and run
 ```
 
 ### Shell Script(bash)
