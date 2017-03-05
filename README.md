@@ -77,6 +77,19 @@ print("Hello, World!")
 python3 hello-world.py
 ```
 
+### Javascript
+
+```bash
+brew install node
+```
+```javascript
+// hello-world.js
+console.log('Hello, World!');
+```
+```bash
+node hello-world.js
+```
+
 ### GO
 
 ```bash
