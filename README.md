@@ -112,6 +112,20 @@ go build hello-world.go # case2 - Build first
 ./hello-world           #       - and run
 ```
 
+### Shell Script(bash)
+
+hello-world.sh
+```bash
+#!/bin/bash
+echo "Hello, World!"
+```
+```bash
+source hello-world.sh   # case 1 - "Hello, World!"
+
+chmod +x hello-world.sh # case 2 - Add Execute permission to file
+./hello-world.sh        #        - "Hello, World!"
+```
+
 ### C# #
 
 ```bash
