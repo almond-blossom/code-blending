@@ -112,6 +112,20 @@ go build hello-world.go # case 2 - Build first
 ./hello-world           #        - and run
 ```
 
+### C++
+```cpp
+// hello-world.cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+}
+```
+```bash
+g++ hello-world.cpp # Compile source code.
+./a.out             # "Hello, World!"
+```
+
 ### Shell Script(bash)
 
 hello-world.sh
