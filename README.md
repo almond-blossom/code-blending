@@ -20,7 +20,7 @@
 |C#||
 |Lisp (Common Lisp)||
 |Lua||
-||MySQL|
+||MySQL (Function)|
 ||Objective-C|
 ||Swift|
 ||Perl|
@@ -64,7 +64,7 @@ javac hello-world.java # Compile source code.
 java HelloWorld        # "Hello, World!"
 ```
 
-### Python(^3.0.0)
+### Python (3.x)
 
 ```bash
 brew install python3
