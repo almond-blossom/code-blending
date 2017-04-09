@@ -128,9 +128,10 @@ g++ hello-world.cpp # Compile source code.
 
 ### Shell Script(bash)
 
-hello-world.sh
 ```bash
 #!/bin/bash
+
+# hello-world.sh
 echo "Hello, World!"
 ```
 ```bash
