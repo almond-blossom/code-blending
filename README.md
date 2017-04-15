@@ -4,30 +4,10 @@
 
 ## Languages
 
-|Used|Unused|
-|---|---|
-|C||
-|Java||
-|Python(^3.0.0)||
-|Javascript||
-|GO||
-|Ruby||
-|PHP||
-|Scala||
-|Haskell||
-|C++||
-|Shell Script(bash)||
-|C#||
-|Lisp (Common Lisp)||
-|Lua||
-||MySQL (Function)|
-||Objective-C|
-||Swift|
-||Perl|
-||Pascal|
-||R|
-||Scratch|
-||Smalltalk|
+|C|Java|Python(^3.0.0)|Javascript|GO|Ruby|PHP|Scala|Haskell|C++|Shell Script(bash)|C#|Lisp (Common Lisp)|Lua|MySQL (Function)|Objective-C|Swift|Perl|Pascal|R|Scratch|Smalltalk|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|O|O|O|O|O|O|O|O|O|O|O|O|O|O|||||||||
+
 
 ## How to "Hello, World!" on OSX
 
